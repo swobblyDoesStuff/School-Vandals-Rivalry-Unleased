@@ -1,0 +1,38 @@
+TAG IMAGE SETUP INSTRUCTIONS
+==============================
+
+The following tag image files need to be placed in: public/assets/tags/
+
+Each file should correspond to a tag level (1-20):
+
+Level 1  -> Tag1.png  (Thinking/wondering emoji)
+Level 2  -> Tag2.png  (Lock emoji)
+Level 3  -> Tag3.png  (Happy emoji)
+Level 4  -> Tag4.png  (Silly/goofy emoji)
+Level 5  -> Tag5.png  (Love/heart emoji)
+Level 6  -> Tag6.png  (Sick/green emoji)
+Level 7  -> Tag7.png  (Devil/evil emoji)
+Level 8  -> Tag8.png  (Star emoji)
+Level 9  -> Tag9.png  (Poop emoji)
+Level 10 -> Tag10.png (Sweating emoji)
+Level 11 -> Tag11.png (Angry emoji)
+Level 12 -> Tag12.png (Thumbs up emoji)
+Level 13 -> Tag13.png (Sparkle/magic emoji)
+Level 14 -> Tag14.png (Cool/sunglasses emoji)
+Level 15 -> Tag15.png (Angel emoji)
+Level 16 -> Tag16.png (Nerd/glasses emoji)
+Level 17 -> Tag17.png (Santa emoji)
+Level 18 -> Tag18.png (Money/greedy emoji)
+Level 19 -> Tag19.png (Lying emoji)
+Level 20 -> Tag20.png (Police officer emoji)
+
+COPY ALL IMAGE FILES TO:
+c:\Users\swobb\Downloads\school-vandals_-rivalry-unleashed (2)\public\assets\tags\
+
+Image Requirements:
+- Format: PNG with transparent background
+- Size: 64x64 pixels (recommended)
+- Naming: Exactly as shown above (Tag1.png, Tag2.png, etc.)
+- Case-sensitive on Linux/Mac (capital T required)
+
+Once files are in place, the game will automatically load tag graphics with Locked.png fallback for level-restricted tags.
